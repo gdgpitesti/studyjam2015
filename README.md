@@ -1,4 +1,1 @@
-# studyjam2015
-GDG Pitesti
-
-Sdudy Jam 2015
+# GDG Pitesti Study Jam 2015
